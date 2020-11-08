@@ -9,6 +9,6 @@
 // I AM NOT DONE
 
 fn main() {
-    x = 5;
+    let x = 5; // solution: requires let keyword for variable binding
     println!("x has the value {}", x);
 }

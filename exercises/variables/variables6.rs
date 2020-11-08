@@ -3,7 +3,7 @@
 
 // I AM NOT DONE
 
-const NUMBER = 3;
+const NUMBER: usize  = 3; // solution: constants types must also always be annotated
 fn main() {
     println!("Number {}", NUMBER);
 }
